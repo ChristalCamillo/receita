@@ -1,4 +1,4 @@
-Alteração fora do terminal
+Alteração pelo terminal através do nano
 
 Ingredientes - Frango
 1 frango inteiro com pele (cerca de 2 kg)
